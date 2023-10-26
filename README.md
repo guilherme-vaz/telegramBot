@@ -17,6 +17,9 @@ $ node app.js
 # Em um novo terminal, vá para a pasta src e execute o arquivo bot.js para iniciar o bot
 $ node bot.js
 
+# Abra o Telegram e procure pelo Bot
+$ guibot
+
 ```
 -----
 
